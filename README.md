@@ -61,7 +61,7 @@ source venv/bin/activate
 Install Pygame:
 
 ```bash
-python -m pip install pygame
+python -m pip install -r requirements.txt
 ```
 
 ## Run the Game
