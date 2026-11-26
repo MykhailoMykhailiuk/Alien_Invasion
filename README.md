@@ -2,6 +2,9 @@
 
 A 2D arcade shooter built with Python and Pygame. Defeat alien fleets, survive as the difficulty increases, and face a boss every fifth level.
 
+<img width="1168" height="901" alt="Boss" src="https://github.com/user-attachments/assets/dc2d458e-e9c1-4ee9-b7eb-0927f1758f8c" />
+
+
 ## Features
 
 - Alien fleet movement and increasing level difficulty
